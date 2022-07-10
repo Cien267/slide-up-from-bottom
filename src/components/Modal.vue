@@ -17,7 +17,6 @@ export default {
   methods: {
     close() {
       this.$emit('updateIsShow', false)
-    
     }
   },
 }
